@@ -37,7 +37,8 @@ workbox.precaching.precacheAndRoute([
   "/icon_rosary.svg",
   "/illustration_1.jpg",
   "/illustration_2.jpg",
-  "/illustration_3.jpg"
+  "/illustration_3.jpg",
+  "/fonts/lpmq.otf"
 ], {
   "cacheId": "quran-offline-prod",
   "directoryIndex": "/"
