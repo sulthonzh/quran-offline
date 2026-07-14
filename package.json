@@ -4,6 +4,23 @@
   "description": "📖 Read Qur'an Directly from Your Web Browser. No Ads, No Analytics, It's Totally Free.",
   "author": "Irfan Maulana",
   "private": true,
+  "files": [
+    "pages/",
+    "components/",
+    "layouts/",
+    "store/",
+    "utils/",
+    "plugins/",
+    "constant/",
+    "models/",
+    "static/",
+    "assets/",
+    "nuxt.config.ts",
+    "tsconfig.json",
+    "package.json",
+    "README.md",
+    "LICENSE"
+  ],
   "scripts": {
     "dev": "cross-env NODE_ENV=development nuxt-ts",
     "build": "cross-env NODE_ENV=production nuxt-ts build",
