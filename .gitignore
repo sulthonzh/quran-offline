@@ -83,3 +83,8 @@ dist
 sw.*
 static/sitemap*
 eslint-report.html
+dist/
+__pycache__/
+.venv/
+*.egg-info/
+.mypy_cache/
